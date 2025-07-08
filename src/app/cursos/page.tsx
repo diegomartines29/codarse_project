@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 
 
 export const metadata: Metadata = {
-  title: "CodarSe - Página inicial",
+  title: "CodarSe - Todos os cursos",
 };
 
-export default function PageHome() {
+export default function PageCursos() {
   return (
     <main>
     </main>
