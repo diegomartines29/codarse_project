@@ -18,7 +18,7 @@ export const Card = ({title, description, image, href}: ICardProps) => {
                     width={800}
                     height={0}
                     draggable={false}
-                    className='aspect-video object-cover rounded-4xl'
+                    className='aspect-video object-cover rounded-2xl'
                 />
 
                 <h4 className='font-extrabold text-lg'>
